@@ -1,0 +1,1948 @@
+[ 2016-06-07T18:39:26+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016385s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0519s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000211s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000376s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130838s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.131033s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.035967s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.036089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.104040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.104215s ]
+
+[ 2016-06-07T18:48:07+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001730s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018277s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002605s ]
+
+[ 2016-06-07T18:48:35+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0409s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.069423s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002297s ]
+
+[ 2016-06-07T18:50:31+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001922s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0343s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020736s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001610s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001849s ]
+
+[ 2016-06-07T18:58:42+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001845s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0132s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000238s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002714s ]
+
+[ 2016-06-07T19:07:22+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001914s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0867s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002347s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002526s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002736s ]
+
+[ 2016-06-07T19:08:06+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002063s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0246s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017954s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001928s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002110s ]
+
+[ 2016-06-07T19:13:41+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002005s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028272s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002022s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002605s ]
+
+[ 2016-06-07T19:18:41+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002061s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002730s ]
+
+[ 2016-06-07T19:19:10+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002586s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000546s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002170s ]
+
+[ 2016-06-07T19:19:22+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001706s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021046s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002206s ]
+
+[ 2016-06-07T19:19:56+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000322s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.082408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.082537s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001217s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001854s ]
+
+[ 2016-06-07T19:20:00+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001983s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0897s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000401s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000682s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049686s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004170s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003644s ]
+
+[ 2016-06-07T19:20:12+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001846s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019239s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001621s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001812s ]
+
+[ 2016-06-07T19:20:17+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001527s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017674s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001406s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002248s ]
+
+[ 2016-06-07T19:20:32+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001579s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017878s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002106s ]
+
+[ 2016-06-07T19:27:19+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018559s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001686s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002910s ]
+
+[ 2016-06-07T19:27:21+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002281s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0137s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000330s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002709s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002912s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002171s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002406s ]
+
+[ 2016-06-07T19:27:32+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000396s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001242s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002582s ]
+
+[ 2016-06-07T19:33:16+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001970s ]
+
+[ 2016-06-07T19:33:49+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002044s ]
+
+[ 2016-06-07T19:34:03+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001633s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001821s ]
+
+[ 2016-06-07T19:35:36+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001868s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002665s ]
+
+[ 2016-06-07T19:36:57+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018487s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001510s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001709s ]
+
+[ 2016-06-07T19:37:15+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002240s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002409s ]
+
+[ 2016-06-07T19:40:10+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001494s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002850s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002177s ]
+
+[ 2016-06-07T19:41:07+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001386s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001814s ]
+
+[ 2016-06-07T19:41:50+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002247s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002473s ]
+
+[ 2016-06-07T19:42:11+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002499s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001952s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002087s ]
+
+[ 2016-06-07T19:42:40+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0266s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001925s ]
+
+[ 2016-06-07T19:42:56+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001506s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002334s ]
+
+[ 2016-06-07T19:43:14+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001603s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001698s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001927s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002328s ]
+
+[ 2016-06-07T19:43:23+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001249s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022196s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001786s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002008s ]
+
+[ 2016-06-07T19:44:01+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001307s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0126s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000268s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001812s ]
+
+[ 2016-06-07T19:46:52+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005951s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000326s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000547s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004161s ]
+
+[ 2016-06-07T19:46:52+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002380s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000292s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027886s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002793s ]
+
+[ 2016-06-07T19:47:59+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019314s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001975s ]
+
+[ 2016-06-07T19:48:24+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000191s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2016-06-07T19:48:58+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019117s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001805s ]
+
+[ 2016-06-07T19:49:42+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001711s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0777s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000303s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050306s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004300s ]
+
+[ 2016-06-07T19:54:29+08:00 ] ::1 /HZAUCA2.0/index.php/Home/Index/allActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001427s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `hzauca_activity`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.106137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.106331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001213s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002958s ]
+
+[ 2016-06-07T19:54:32+08:00 ] ::1 /HZAUCA2.0/index.php/Home/Index/contents/aid/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002351s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `hzauca_activity` WHERE ( aid=1 ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042060s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002121s ]
+
+[ 2016-06-07T19:59:13+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001986s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000322s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000543s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001842s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002057s ]
+
+[ 2016-06-07T19:59:37+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002613s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0144s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001626s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001780s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002984s ]
+
+[ 2016-06-07T20:07:08+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001411s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0119s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0317s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018511s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018682s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001983s ]
+
+[ 2016-06-07T20:08:15+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001825s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000324s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001863s ]
+
+[ 2016-06-07T20:08:36+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001238s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000336s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001639s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001837s ]
+
+[ 2016-06-07T20:08:58+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002011s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0355s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017694s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001816s ]
+
+[ 2016-06-07T20:11:18+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001798s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0131s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019520s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001807s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002353s ]
+
+[ 2016-06-07T20:11:30+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001920s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001916s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002061s ]
+
+[ 2016-06-07T20:13:16+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002201s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000256s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002115s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003152s ]
+
+[ 2016-06-07T20:16:01+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001863s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000184s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001514s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002127s ]
+
+[ 2016-06-07T20:16:12+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001586s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002820s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003060s ]
+
+[ 2016-06-07T20:17:58+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000198s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018849s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001113s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001225s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002271s ]
+
+[ 2016-06-07T20:18:01+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0129s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001731s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003068s ]
+
+[ 2016-06-07T20:20:15+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003451s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0174s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000222s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003440s ]
+
+[ 2016-06-07T20:20:16+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003535s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000384s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000669s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040361s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004624s ]
+
+[ 2016-06-07T20:20:16+08:00 ] ::1 /HZAUCA2.0/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003439s ]
+SQL: SHOW COLUMNS FROM `hzauca_activity` [ RunTime:0.0175s ]
+SQL: SELECT * FROM `hzauca_activity` ORDER BY date desc LIMIT 6   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000364s ]
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 90 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 94 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 98 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 102 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 106 行.
+NOTIC: [8] Use of undefined constant aid - assumed 'aid' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+NOTIC: [8] Use of undefined constant theme - assumed 'theme' D:\Web\HZAUCA2.0\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002302s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003205s ]
+

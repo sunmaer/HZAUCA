@@ -1,0 +1,54 @@
+<include file="Public:header"/>
+<!-- 头部 -->
+<include file="Public:sidebar"/>
+<!-- 侧边导航栏 -->
+        
+<!-- 中间 -->
+    <div class="wrapper">
+        <div class="allactivity_top">
+                <img src="__IMG__/manage.png" />
+                <p class="manager">添加动态</p>
+                <div class="welcome">
+                    <p class="title">版块说明</p>
+                    <p class="content">你好！欢迎使用 ZeroDegree 后台管理系统 V1.0！</p>
+                    <p class="content">你可以在本版块添加新的协会动态，请填写完整的活动信息。</p>
+                </div>
+        </div>
+        <div class="addactivity_left">
+            <p class="title">1、具体内容（*默认15px字体，段首使用tab或4个空格，200字以内） </p>
+            <form action="{:U('Admin/updateactivity','','')}/aid/{$data.aid}" enctype="multipart/form-data" method="post">
+            <textarea name="allcontents" id="allcontents" >{$data.allcontents}</textarea>
+        </div>
+        <div class="addactivity_right1">
+            <p class="title">2、设置参数并提交 </p>
+            <div class="addactivity_canshu">
+                <label for="theme">*标题</label>
+                <input type="text" name="theme" id="theme" placeholder="填写标题" required="required" value="{$data.theme}" />
+            </div>
+                <div class="addactivity_canshu">
+                <label for="type">*类型</label>
+                <input type="text" name="type" id="type" placeholder="填写动态类型：义修、培训、通知、博客" required="required" value="{$data.type}" />
+            </div>
+            <div class="addactivity_canshu">
+                <label for="mcontents">*主要内容</label>
+                <input type="text" name="mcontents" id="mcontents" placeholder="填写主要内容" required="required" value="{$data.mcontents}"/>
+            </div>
+                <div class="addactivity_canshu">
+                <label for="tags">*标签</label>
+                <input type="text" name="tags" id="tags" placeholder="填写动态标签" required="required" value="{$data.tags}"/>
+            </div>
+            <div class="addactivity_canshu">
+                <label for="author">*作者</label>
+                <input type="text" name="author" id="author" placeholder="填写作者" required="required" value="{$data.author}"/>
+            </div>
+            <div class="addactivity_canshu">
+                <label for="date">*时间</label>
+                <input type="datetime-local" name="date" id="date" placeholder="填写时间,例如 2016-03-27" required="required" value="{$data.date}"/>
+            </div>
+            <p class="addactivity_p"><input class="addactivity_button" onmouseover="this.className='addactivity_buttonch'" onmouseout="this.className='addactivity_button'" type="submit" value="确认发布" /></p>
+            </form>  
+        </div>
+    </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="author" content="孙梦海" />
+	<title>后台管理系统</title>
+	<link rel="shortcut icon" href="__IMG__/1404.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="__CSS__/admin.css">
+	<script type="text/javascript" src="__JS__/nav.js"></script>
+    <script src="http://libs.baidu.com/jquery/2.1.4/jquery.min.js"></script>
+
+    <!-- kindeditor插件 -->
+    <script charset="utf-8" src="__EDITOR__/kindeditor-min.js"></script>
+<!--     <script>
+    $(function() {
+        KindEditor.ready(function(K) {
+            window.editor = K.create('#allcontents',{
+                resizeType: '0',    //高度可拖动
+                width: '610px',
+                height: '502px',
+                cssData: 'body { font-size: 14px; }',
+                fillDescAfterUploadImage: 'true',
+                uploadJson: '__URL__/editor_upload',
+                afterCreate: function(){ $('.ke-container').css("border", "none")},
+                items: [
+                    'source', 'preview', '|', 'undo', 'redo', 'cut', 'copy', 'paste',
+                    'plainpaste', '|', 'justifyleft', 'justifycenter', 'justifyright',
+                    'justifyfull', 'insertorderedlist', 'insertunorderedlist', 'indent', 'outdent', 'subscript',
+                    'superscript', 'clearhtml', 'quickformat', 'selectall', '|', 'fullscreen', '/',
+                    'formatblock', 'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold',
+                    'italic', 'underline', 'strikethrough', 'lineheight', 'removeformat', '|', 'image',
+                    'insertfile', 'table', 'hr', 'emoticons', 'baidumap',
+                    'anchor', 'link', 'unlink', '|', 'about'
+                ]
+            });
+        });
+    </script> -->
+
+</head>
+<body>
+    <div class="container">
+        <!-- 头部 -->
+    	<div class="header">
+    		<img src="__IMG__/6.png" class="logo" /><p class="p1"> 后台管理系统</p>
+    		<div>
+                <a href="{:U('Admin/Admin/logout')}"><img src="__IMG__/loginout.png" class="login"/></a>
+                <a href="{:U('Home/Index/index')}" target="_blank"><img src="__IMG__/home_page.png" class="login"/></a>
+            </div>   
+    	</div>

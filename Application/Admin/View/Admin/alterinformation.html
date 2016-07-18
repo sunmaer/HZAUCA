@@ -1,0 +1,44 @@
+<include file="Public:header"/>
+<!-- 头部 -->
+<include file="Public:sidebar"/>
+<!-- 侧边导航栏 -->
+    	
+<!-- 中间 -->
+    <div class="wrapper">
+    	<div class="addmember_top">
+                <img src="__IMG__/manage.png" />
+                <p class="manager">修改个人信息</p>
+        </div>
+        <div class="clear"></div>
+        <div class="addmember_welcome">
+            <p class="title">版块说明</p>
+            <p class="content">你好！欢迎使用 ZeroDegree 后台管理系统 V1.0！</p>
+            <p class="content">你可以在本版块修改个人信息。</p>
+            <p class="content">当前可以修改的有：登录密码。</p>
+        </div>
+        <div class="alterinformation_right">
+            <p class="title">修改个人信息 </p>
+            <form action="{:U('Admin/updatemanager','','')}/id/{$_SESSION['id']}" method="post">
+                <div class="addactivity_canshu">
+                <label for="managername">登录昵称</label>
+                <input type="text" name="managername" id="managername" readonly="" value="{$_SESSION['managername']}"/>
+            </div>
+            <div class="addactivity_canshu">
+                <label for="password">当前登录密码</label>
+                <input type="password" name="password" id="password" required="required"/>
+            </div>
+            <div class="addactivity_canshu">
+                <label for="new_password">新密码</label>
+                <input type="password" name="new_password" id="new_password" required="required"/>
+            </div>
+            <div class="addactivity_canshu">
+                <label for="conf_new_password">确认新密码</label>
+                <input type="password" name="conf_new_password" id="conf_new_password" required="required"/>
+            </div>
+            <p class="addactivity_p"><input class="addactivity_button" onmouseover="this.className='addactivity_buttonch'" onmouseout="this.className='addactivity_button'" type="submit" value="确认修改" /></p>
+            </form>  
+        </div>
+    </div>
+    </div>
+</body>
+</html>

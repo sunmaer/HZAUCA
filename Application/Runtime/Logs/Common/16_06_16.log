@@ -1,0 +1,24 @@
+[ 2016-06-16T15:51:59+08:00 ] ::1 /HZAUCA2.0/Public/image/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-16T15:51:59+08:00 ] ::1 /HZAUCA2.0/Public/image/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.058377s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-16T15:58:47+08:00 ] ::1 /HZAUCA2.0/Public/image/bg-box-title.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-16T15:59:19+08:00 ] ::1 /HZAUCA2.0/Public/image/bg-box-title.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001262s ]
+ERR: 无法加载模块:Public
+

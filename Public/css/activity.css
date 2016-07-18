@@ -1,0 +1,670 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+    border: 0;
+}     
+body {
+	width: 100%;
+	font-size: 15px;
+	color: #333;
+	font-family: "Helvitica Neue",Helvitica,Arial,"Hiragino Sans GB","Microsoft YaHei","Arial Regular","Microsoft JhengHei",sans-serif;
+    background-color: #fafcff;
+}
+/*网页字体*/
+@font-face {
+    font-family: 'icomoon';
+    src:    url('../fonts/icomoon.eot?o863v0');
+    src:    url('../fonts/icomoon.eot?o863v0#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?o863v0') format('truetype'),
+        url('../fonts/icomoon.woff?o863v0') format('woff'),
+        url('../fonts/icomoon.svg?o863v0#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/*<-------------头部导航-------------->*/
+.header {
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    background-color: #000;
+    transition: 0.3s;
+}
+.center {
+    width: 85%;
+    margin: 0 auto;
+    color: #ffffff;
+}
+.logo {
+    float: left;
+}
+.logo img {
+    margin-top: 10.5px;
+    width: 55px;
+}
+.name {
+    float: right;
+    margin-left: 15px;
+    font-size: 23px;
+    letter-spacing: 3px;
+    font-family: "Glyphicons Halflings";
+}
+.m-menu {
+    display: none;
+    position: relative;
+    float: right;
+    margin-top: 15px;
+    border-radius: 3px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-color: rgba(0,0,0,0.5);
+}
+.icon-menu:before {
+    position: relative;
+    content: "\f0c9";
+    font-size: 30px;
+    left: 7px;
+    bottom: 7px;
+}
+.m-mask {
+    display: none;
+    z-index: 999;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+}
+.m-nav {
+    list-style-type: none;
+}
+.m-nav li {
+    line-height: 40px;
+    text-align: center;
+}
+.m-nav li a {
+    display: block;
+    text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+.m-nav li:hover {
+    background-color: #000;
+}
+.nav {
+    float: right;
+}
+.nav ul li{
+    position: relative;
+    display: inline-block;
+    padding-left: 40px;
+    list-style-type: none;
+    letter-spacing: 2px;
+    cursor: default;
+}
+.nav ul li a {
+    text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+.li-active:after {
+    position: absolute;
+    top: 50px;
+    left: 35px;
+    content: "";
+    width: 40px;
+    height: 2px;
+    background-color: #ffffff;
+}
+.nav ul li a:after {
+    position: absolute;
+    top: 50px;
+    left: 37px;
+    content: "";
+    width: 0px;
+    height: 2px;
+    background-color: #ffffff;
+    transition: 1s;
+    -moz-transition: 1s;    /* Firefox 4 */
+    -webkit-transition: 1s; /* Safari 和 Chrome */
+    -o-transition: 1s;
+}
+.nav ul li a:hover:after {
+    width: 75px;
+    transition: 1s;
+    -moz-transition: 1s;    /* Firefox 4 */
+    -webkit-transition: 1s; /* Safari 和 Chrome */
+    -o-transition: 1s; 
+}
+.centerlink {
+    width: 85%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+hr {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    clear: both;
+    margin: 0 0 20px 0;
+    width: 100%;
+    height: 1px;
+    background-color: #f2f2f2;
+}
+.friendlink {
+    display: inline-block;
+    float: left;
+    width: 120px;
+    line-height: 40px;
+    color: #757e91;
+}
+.link {
+    float: left;
+    width: calc(100% - 120px);
+    list-style-type: none;
+}
+.link li {
+    display: inline-block;
+    margin-right: 30px;
+    line-height: 40px;
+}
+.link li a {
+    color: #757e91;
+    text-decoration: none;
+}
+.link li a:hover {
+    color: #575d6a;
+}
+.clearfix {
+    clear: both;
+}
+
+/*<--------------------页脚-------------------->*/
+#footer {
+    width: 100%;
+    padding: 20px 0;
+    font-size: 13px;
+    border-top: 1px solid #f2f2f2;
+    /*background-color: #000;*/
+}
+#footer p {
+    width: 100%;
+    line-height: 30px;
+    color: #757e91;
+    text-align: center;
+}
+#footer p img {
+    margin-left: 10px;
+    width: 24px;
+    vertical-align: middle;
+}
+
+/*<----------------所有活动---------------->*/
+.container {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.title {
+    float: left;
+    line-height: 80px;
+    color: #31343b;
+    font-size: 22px;
+    /*font-weight: 700;*/
+}
+.container ul {
+    width: 100%;
+    list-style-type: none;
+}
+.container ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin-left: 30px;
+    color: #575d6a;
+}
+.article {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px;
+     margin-bottom: 20px;
+    border-top: 2px solid #fe6649;
+    border-left: 1px solid #e5e6e8;
+    border-right: 1px solid #e5e6e8;
+    border-bottom: 1px solid #e5e6e8;
+    width: 100%;
+}
+.photo {
+    float: left;
+    width: 80px;
+    height: 80px;
+}
+.article-info {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    height: 80px;
+    padding: 0 20px;
+}
+.icon-time:before {
+    content: "\f017";
+    margin: 0 5px 0 0;
+}
+.article-title {
+    display: block;
+    line-height: 55px;
+    color: #31343b;
+    text-decoration: none;
+    font-size: 22px;
+}
+.article-title:hover {
+    color: #fe6649;
+}
+.author {
+    width: 100%;
+    line-height: 25px;
+    color: #757e91;
+}
+.type {
+    display: inline-block;
+    margin-right: 20px;
+    width: 60px;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    background: #29c971
+}
+.article-keywords {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 0 10px;
+    margin: 10px 0;
+    width: 100%;
+    height: 40px;
+    word-break: keep-all;/* 不换行 */
+    white-space: nowrap;/* 不换行 */
+    overflow: hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+    text-overflow: ellipsis;/* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用。*/
+    line-height: 40px;
+    color: #ababab;
+    background-color: #f4f5f7;
+}
+.article-contents {
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    height: 130px;
+    overflow: hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+    text-overflow: ellipsis;/* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用。*/
+    line-height: 35px;
+    text-indent: 30px;
+    text-decoration: none;
+    color: #585858;
+}
+/*回到顶部*/
+.button {
+    display: none;
+    position: fixed;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 3px;
+    width: 40px;
+    height: 40px;
+    bottom: -40px;                                                                                                                                                                                                                                                                                                                                                                                                        0px;
+    right: 20px;
+    cursor: pointer;
+    transition: all ease .3s;
+    -webkit-transition: all ease .3s;
+    -ms-transition: all ease .3s;
+    -moz-transition: all ease .3s;
+    background-color: #000;
+}
+.icon-top:before {
+    content: "\f106";
+    margin-left: 9.0px;
+    line-height: 1.1;
+    font-size: 35px;
+    color: #fff;
+}
+.ac-title {
+    width: 100%;
+    line-height: 80px;
+    color: #31343b;
+    font-size: 22px;
+    text-align: center;
+}
+.ac-info {
+    line-height: 40px;
+    color: #999;
+    text-align: right;
+}
+.icon-tags:before {
+    content: "\f02c";
+    margin: 0 5px 0 0;
+}.icon-author:before {
+    content: "\f040";
+    margin: 0 5px 0 0;
+}
+.hr:before {
+    content: "|";
+    color: #ccc;
+}
+.underline {
+    width: 100%;
+    height: 1px;
+    margin: 10px 0;
+    background-color: 666;
+}
+.ac-contents {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px 10px;
+    line-height: 35px;
+    text-indent: 30px;
+    color: #585858;
+    border-top: 1px solid #f2f2f2;
+}
+.bdsharebuttonbox {
+    float: right;
+    margin-bottom: 10px;
+}
+.share {
+    float: right;
+    line-height: 36px;
+    margin-right: 10px;
+    color: #585858;
+}
+
+/*媒体查询，参考部分Bootstrap 框架*/
+/*当页面大于1200px 时，大屏幕，主要是PC 端*/
+@media (min-width: 1200px) {
+    
+}
+/*在992 和1199 像素之间的屏幕里，中等屏幕，分辨率低的PC*/
+@media (min-width: 992px) and (max-width: 1199px) {
+    .center {
+        width: 80%;
+        margin: 0 auto;
+        color: #ffffff;
+    }
+    .container {
+        width: 80%;
+    }
+}
+/*在768 和991 像素之间的屏幕里，小屏幕，主要是PAD*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .center {
+        width: 80%;
+        margin: 0 auto;
+        color: #ffffff;
+    }
+    .logo {
+        float: left;
+    }
+    .logo img {
+        margin-top: 10.5px;
+        width: 55px;
+    }
+    .name {
+        float: right;
+        margin-left: 15px;
+        font-size: 23px;
+        letter-spacing: 3px;
+        font-family: "Glyphicons Halflings";
+    }
+    .m-menu {
+        display: block;
+    }
+    .nav {
+        display: none;
+    }
+    .centerlink {
+        display: none;
+    }
+    hr {
+        display: none;  
+    }
+    /*<--------------------页脚-------------------->*/
+
+    /*<----------------所有活动---------------->*/
+    .container {
+        width: 100%;
+    }
+    .title {
+        display: none;
+    }
+    .container ul {
+        display: none;
+    }
+    .article {
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        width: 100%;
+    }
+    /*回到顶部*/
+    .button {
+        background-color: rgba(0,0,0,0.5);
+    }
+    .ac-title {
+        font-size: 22px;
+    }
+    .ac-info {
+        text-align: center;
+    }
+    .ac-contents {
+        padding: 20px 25px;
+        line-height: 35px;
+        text-indent: 30px;
+    }
+    .hidden {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+/*在480 和767 像素之间的屏幕里，超小屏幕，主要是手机*/
+@media (min-width: 480px) and (max-width: 767px) {
+    .center {
+        width: 80%;
+        margin: 0 auto;
+        color: #ffffff;
+    }
+    .logo {
+        float: left;
+    }
+    .logo img {
+        margin-top: 10.5px;
+        width: 55px;
+    }
+    .name {
+        float: right;
+        margin-left: 15px;
+        font-size: 23px;
+        letter-spacing: 3px;
+        font-family: "Glyphicons Halflings";
+    }
+    .m-menu {
+        display: block;
+    }
+    .nav {
+        display: none;
+    }
+    .centerlink {
+        display: none;
+    }
+    hr {
+        display: none;  
+    }
+    /*<--------------------页脚-------------------->*/
+
+    /*<----------------所有活动---------------->*/
+    .container {
+        width: 100%;
+    }
+    .title {
+        display: none;
+    }
+    .container ul {
+        display: none;
+    }
+    .article {
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        width: 100%;
+    }
+    /*回到顶部*/
+    .button {
+        background-color: rgba(0,0,0,0.5);
+    }
+    .ac-title {
+        font-size: 22px;
+    }
+    .ac-info {
+        text-align: center;
+    }
+    .ac-contents {
+        padding: 20px 25px;
+        line-height: 35px;
+        text-indent: 30px;
+    }
+    .bdsharebuttonbox {
+        display: none;
+    }
+    .share {
+        display: none;
+    }
+    .hidden {
+        display: none;
+    }
+}
+/*在小于480 像素的屏幕，微小屏幕，更低分辨率的手机*/
+@media (max-width: 479px) {
+    .center {
+        width: 85%;
+        margin: 0 auto;
+        color: #ffffff;
+    }
+    .logo {
+        float: left;
+    }
+    .logo img {
+        margin-top: 10.5px;
+        width: 55px;
+    }
+    .name {
+        float: right;
+        margin-left: 15px;
+        font-size: 23px;
+        letter-spacing: 3px;
+        font-family: "Glyphicons Halflings";
+    }
+    .m-menu {
+        display: block;
+    }
+    .nav {
+        display: none;
+    }
+    .centerlink {
+        display: none;
+    }
+    hr {
+        display: none;  
+    }
+    /*<--------------------页脚-------------------->*/
+    .chidden {
+        display: none;
+    }
+
+    /*<----------------所有活动---------------->*/
+    .container {
+        width: 100%;
+    }
+    .title {
+        display: none;
+    }
+    .container ul {
+        display: none;
+    }
+    .article {
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        width: 100%;
+    }
+    .photo {
+        display: none;
+    }
+    .article-info {
+        padding: 0 0;
+    }
+    /*回到顶部*/
+    .button {
+        background-color: rgba(0,0,0,0.5);
+    }
+    .icon-top:before {
+        content: "\f106";
+        margin-left: 9.0px;
+        line-height: 1.1;
+        font-size: 35px;
+        color: #fff;
+    }
+    .ac-title {
+        font-size: 20px;
+    }
+    .thidden {
+        display: none;
+    }
+    .ac-info {
+        text-align: center;
+    }
+    .ac-contents {
+        padding: 20px 25px;
+        line-height: 35px;
+        text-indent: 30px;
+    }
+    .bdsharebuttonbox {
+        display: none;
+    }
+    .share {
+        display: none;
+    }
+    .hidden {
+        display: none;
+    }
+}

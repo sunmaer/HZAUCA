@@ -1,0 +1,78 @@
+<include file="Public:header"/>
+<!-- 头部 -->
+<include file="Public:sidebar"/>
+<!-- 侧边导航栏 -->
+    	
+<!-- 中间 -->
+    <div class="wrapper">
+    	<div class="allactivity_top">
+                <img src="__IMG__/manage.png" />
+                <p class="manager">班级成员</p>
+                <div class="welcome">
+                    <p class="title">版块说明</p>
+                    <p class="content">你好！欢迎使用 ZeroDegree 后台管理系统 V1.0！</p>
+                    <p class="content">你可以在本版块查看维修表单信息。
+                </div>
+        </div>
+        <div class="allactivity">
+             <p class="title">所有成员</p>
+             <table>
+             	<tr class="allactivity_content">
+             		<td class="td1"><strong>#</strong></td>
+             		<td class="td3"><strong>姓名</strong></td>
+             		<td class="td2"><strong>手机号码</strong></td>
+             		<td class="td6"><strong>qq</strong></td>
+                    <td class="td5"><strong>故障类型</strong></td>
+                    <td class="td4"><strong>故障详细描述</strong></td>
+                    <td class="td7"><strong>时间</strong></td>
+                    <td class="td8"><strong>状态</strong></td>
+             	</tr>
+                <volist name="data" id="vo" >
+             	<tr class="allactivity_content1" onmouseover="this.className='allactivity_content2'" onmouseout="this.className='allactivity_content1'">
+             		<td class="td1">{$vo.fid}</td>
+                    <td class="td3">{$vo.name}</td>
+                    <td class="td2">{$vo.phone}</td>
+                    <td class="td6">{$vo.qq}</td>
+                    <td class="td5">{$vo.pheno}</td>
+                    <td class="td4">{$vo.description}</td>
+                    <td class="td7">{$vo.time}</td>
+                    <td class="td8"><a href="{:U('Admin/Admin/shenhe','','')}/fid/{$vo.fid}" class="alluser-verify">{$vo.status}</a></td>
+             	</tr>
+                </volist>
+                <tr class="allactivity_clear"></tr>
+             </table>
+             <div class="allactivity_page">{$page}</div>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+    $().ready(function() {
+    // 表单状态切换
+    $('.alluser-verify').each(function() {
+        if ($(this).text()=="未完成") {
+        // $('.alluser-verify').removeClass("alluser-abutton");
+        $(this).addClass("alluser-abutton");
+     }
+     if ($(this).text()=="已完成") {
+        // $('.alluser-verify').removeClass("alluser-abutton");
+        $(this).addClass("alluser-button");
+     }
+    })
+});
+    // window.onload=function(){
+    //     var flag=Math.floor(Math.random()*4);
+    //     if(flag==0) {document.getElementById('jsbk-key').style.backgroundColor="#ff7575";}
+    //     if(flag==1) {document.getElementById('jsbk-key').style.backgroundColor="#53FF53";}
+    //     if(flag==2) {document.getElementById('jsbk-key').style.backgroundColor="#46A3FF";}
+    //     if(flag==3) {document.getElementById('jsbk-key').style.backgroundColor="#FFE153";}
+    //     for (var i =  1; i <= 10; i++) {
+    //         var id="jsbk-key"+i;
+    //         var flag=Math.floor(Math.random()*4);
+    //         if(flag==0) {document.getElementById(id).style.backgroundColor="#ff7575";}
+    //         if(flag==1) {document.getElementById(id).style.backgroundColor="#53FF53";}
+    //         if(flag==2) {document.getElementById(id).style.backgroundColor="#46A3FF";}
+    //         if(flag==3) {document.getElementById(id).style.backgroundColor="#FFE153";}
+    // }
+</script>
+</html>

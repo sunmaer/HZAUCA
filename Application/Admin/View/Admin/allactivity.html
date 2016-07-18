@@ -1,0 +1,54 @@
+<include file="Public:header"/>
+<!-- 头部 -->
+<include file="Public:sidebar"/>
+<!-- 侧边导航栏 -->
+    	
+<!-- 中间 -->
+    <div class="wrapper">
+    	<div class="allactivity_top">
+                <img src="__IMG__/manage.png" />
+                <p class="manager">全部动态</p>
+                <div class="welcome">
+                    <p class="title">版块说明</p>
+                    <p class="content">你好！欢迎使用 ZeroDegree 后台管理系统 V1.0！</p>
+                    <p class="content">你可以在本版块查看协会的所有动态，动态信息一般不需要修改。你还可以点击<a href="{:U('Admin/addactivity')}" class="alter-Pw">添加动态</a></p>
+                </div>
+        </div>
+        <div class="allactivity">
+             <p class="title">所有动态</p>
+             <table>
+             	<tr class="allactivity_content">
+             		<td class="td1"><strong>#</strong></td>
+             		<td class="td2"><strong>标题</strong></td>
+             		<td class="td3"><strong>类型</strong></td>
+                    <td class="td4"><strong>主要内容</strong></td>
+                    <td class="td5"><strong>标签</strong></td>
+             		<td class="td6"><strong>作者</strong></td>
+             		<td class="td7"><strong>时间</strong></td>
+                    <td class="td8"><strong>操作</strong></td>
+             	</tr>
+                <volist name="data" id="vo" >
+             	<tr class="allactivity_content1" onmouseover="this.className='allactivity_content2'" onmouseout="this.className='allactivity_content1'">
+             		<td class="td1">{$vo.aid}</td>
+             		<td class="td2">{$vo.theme}</td>
+                    <!-- {$vo.content|htmlspecialchars_decode=###} -->
+             		<td class="td3">{$vo.type}</td>
+             		<td class="td4">{$vo.mcontents}</td>
+                    <td class="td5">{$vo.tags}</td>
+                    <td class="td6">{$vo.author}</td>
+             		<td class="td7">{$vo.date}</td>
+             		<td class="td8">
+             			<a href="{:U('Admin/editactivity','','')}/aid/{$vo.aid}" class="allactivity_a1">修改</a>
+             			<a href="{:U('Home/Index/index')}#activity" target="_blank" class="allactivity_a1">查看</a>
+             			<a href="{:U('Admin/deleteactivity','','')}/aid/{$vo.aid}" onclick="return conf_delact()" class="allactivity_a1">删除</a>
+             		</td>
+             	</tr>
+                </volist>
+                <tr class="allactivity_clear"></tr>
+             </table>
+             <div class="allactivity_page">{$page}</div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

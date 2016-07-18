@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>华中农业大学计算机协会</title>
+    <link rel="stylesheet" type="text/css" href="__CSS__/index.css">
+    <link rel="shortcut icon" href="__IMG__/HZAUCA.ico" type="image/x-icon" />
+    <script type="text/javascript" src="__JS__/bigimg.js"></script>
+    <script type="text/javascript" src="__JS__/index.js"></script>
+</head>
+<body >
+<div id="container">   
+    <div id="bgimage"><img  class="blur" src="__IMG__/11.jpg" /></div>
+        <div id="header">
+            <img class="logo" src="__IMG__/logo.png" />
+            <p class="name">H Z A U C A</p>
+            <ul id="nav">
+                <li><a href="{:U('Index/index')}" class="nav">首页</a></li>
+                <li><a href="{:U('Index/xhdt','','')}" class="nav">协会动态</a></li>
+                <li onmouseover="changeHe1()" onmouseout="defaultHe1()">部门风采
+                <ul id="ul1">
+                    <li><a href="#">零度工作室</a></li>
+                    <li><a href="#">硬件组</a></li>
+                    <li><a href="#">office组</a></li>
+                    <li><a href="#">ACM组</a></li>
+                </ul></li>
+                <li onmouseover="changeHe2()" onmouseout="defaultHe2()">计协特色
+                <ul id="ul2">
+                    <li><a href="{:U('Index/zxbx','','')}">在线报修</a></li>
+                    <li><a href="{:U('Index/jnpx','','')}">技能培训</a></li>
+                    <li><a href="{:U('Index/jsbk','','')}">技术博客</a></li>
+                </ul></li>
+                <li onmouseover="changeHe3()" onmouseout="defaultHe3()">资源下载
+                <ul id="ul3">
+                    <li><a href="{:U('Index/zyxz','','')}">软件</a></li>
+                    <li><a href="{:U('Index/zyxz','','')}">工具</a></li>
+                    <li><a href="{:U('Index/zyxz','','')}">电影</a></li>
+                    <li><a href="{:U('Index/zyxz','','')}">游戏</a></li>
+                </ul></li>
+                <li onmouseover="changeHe4()" onmouseout="defaultHe4()">项目开发
+                <ul id="ul4">
+                    <li><a href="{:U('Index/xmkf','','')}">网页制作</a></li>
+                    <li><a href="{:U('Index/xmkf','','')}">办公自动化</a></li>
+                    <li><a href="{:U('Index/xmkf','','')}">美工美化</a></li>
+                </ul></li>
+                <li onmouseover="changeHe5()" onmouseout="defaultHe5()">关于我们
+                <ul id="ul5">
+                    <li><a href="{:U('Index/jxjs','','')}">计协介绍</a></li>
+                    <li><a href="#">加入我们</a></li>
+                    <li><a href="{:U('Index/yjfk','','')}">意见反馈</a></li>
+                </ul></li>
+            </ul>
+        </div>
